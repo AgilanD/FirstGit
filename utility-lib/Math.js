@@ -18,3 +18,4 @@
  console.log(subtract(10,20));
  console.log(multiply(10,20));
  console.log(divide(20,10));
+ console.lo(divide(20,10));
